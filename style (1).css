@@ -1,0 +1,22 @@
+footer{
+
+    background-color: black;
+    text-align: center;
+    color: antiquewhite;
+    height: 100px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+aside{
+    background-color: rgb(90, 130, 176);
+}
+.Articulo2{
+    background-color: rgb(155, 116, 202);
+}
+.Articulo1{
+    background-color: rgb(71, 51, 112);
+}
+header{
+    background-color: rgb(110, 103, 235);
+}
